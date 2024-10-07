@@ -1,2 +1,2 @@
-envtest/__pycache/
-scripts/__pycache/
+envtest/__pycache/__
+scripts/__pycache/__
